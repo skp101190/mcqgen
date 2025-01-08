@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the goal of machine learning in the 1990s?,a: Achieving artificial intelligence | b: Tackling solvable problems of a practical nature | c: Focusing on symbolic approaches inherited from AI | d: Using neural networks exclusively,b
+Which field focuses on discovering previously unknown properties in data?,a: Machine learning | b: Data compression | c: Data mining | d: Statistics,c
+What does data compression aim to achieve?,a: Increase the size of data files | b: Decrease storage efficiency | c: Speed up data transmission | d: Reduce the size of data files,d
+Which algorithm can be utilized in unsupervised machine learning to compress data by grouping similar data points into clusters?,a: Linear regression | b: Decision tree | c: K-means clustering | d: Support vector machine,c
+What is the main difference between machine learning and statistics?,"a: Both draw population inferences from a sample | b: Statistics focuses on prediction, while machine learning finds generalizable predictive patterns | c: Machine learning uses pre-structured models, while statistics detects underlying patterns | d: Statistics employs machine learning methods, while machine learning does not",b
